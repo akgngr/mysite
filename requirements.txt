@@ -19,7 +19,7 @@ Jinja2==2.10.3
 jinja2-time==0.2.0
 Mako==1.1.0
 MarkupSafe==1.1.1
-more-itertools==8.0.2
+#more-itertools==8.0.2
 -e git+https://github.com/akgngr/mysite.git@aa67ab95599f83261c40fffab5a877b171f9c477#egg=mysite
 packaging==19.2
 paginate==0.5.6
